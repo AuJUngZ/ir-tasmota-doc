@@ -13,3 +13,5 @@ This project is a IR remote control for many of Televisions in [TLIC](https://ww
 ### Goal of this documentation.
 To make developer who come to do this project in the future can understand the flow of this project and can configure it easily by
 following this documentation.
+
+>Get started with this project by click [here](/docs/tasmota-config.md)
