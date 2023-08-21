@@ -11,6 +11,7 @@ Because when yuo want to show button in Nspanel you need to create some button e
 3. Add this code to `configurations.yaml` file.
 
 ```yaml
+--- configurations.yaml
 mqtt:
   - unique_id: tlic_lg_all_power
       name: "tlic_lg_all_power"
