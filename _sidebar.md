@@ -1,2 +1,4 @@
 * [Home](intro.md)
 * [Tasmota for esp32 Config](tasmota-config.md)
+* [NsPanel and Home Assistance config](https://docs.nspanel.pky.eu/)
+* [Create mqtt button for HASS](create-button.md)
